@@ -1,2 +1,2 @@
-# Atdv01-02
-Tela de Login - Calculadora IMC - Lukas de Lima Sodré
+# Atividade01E02
+Tela de Login - Calculadora de IMC -- Lukas de Lima Sodré 3°A
